@@ -1,0 +1,1 @@
+# seintpl-osintquiz-writeup
